@@ -8,12 +8,6 @@
   I build modern, responsive, and user-friendly web applications using full-stack technologies, AI tools, and clean UI/UX principles.
 </p>
 
-<p align="center">
-  <a href="https://github.com/EarlJan-coder">
-    <img src="https://komarev.com/ghpvc/?username=EarlJan-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## About Me
